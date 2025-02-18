@@ -1,0 +1,25 @@
+# Environment files
+.env
+.venv
+env/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.vscode
+vscode/
+
+# Static and template files
+static/
+templates/
+*.html
+*.css
+*.js
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
